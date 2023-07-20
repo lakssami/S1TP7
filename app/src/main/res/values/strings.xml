@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">S1TP7</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment_title">Home page</string>
+    <string name="page1_fragment_title">Page 1 fragment</string>
+    <string name="page2_fragment_title">Page 2 fragment</string>
+    <string name="page3_fragment_title">Page 3 fragment</string>
+
+    <string name="button_text_go_home_fragment">Go to Home page</string>
+    <string name="button_text_go_page1_fragment">Go to Page 1</string>
+    <string name="button_text_go_page2_fragment">Go to Page 2</string>
+    <string name="button_text_go_page3_fragment">Go to Page 3</string>
+</resources>
